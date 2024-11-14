@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+python-multipart
+passlib
+pyjwt
+websockets
+httpx
